@@ -3,5 +3,3 @@ Um website colaborativo criado para conscientizar os usuários mais vulneráveis
 
 ## Imagem do site
 <img width="1343" height="681" alt="image" src="https://github.com/user-attachments/assets/9ecfd092-c306-420b-b108-11dcf14fecdc" />
- 
-
